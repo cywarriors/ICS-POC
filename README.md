@@ -74,6 +74,3 @@ Configured in **pfSense → Firewall → Rules**:
 
 ## 📌 Notes
 - This lab is **isolated** and should not be connected to production networks.
-- Empty folders are not tracked in GitHub. To add lab artifacts, create a folder with a `README.md` or placeholder file inside.
-
----
